@@ -119,11 +119,11 @@ export default defineConfig({
 			},
 		],
 
-		socialLinks: [{ icon: 'github', link: 'https://github.com/encode-studio-fe/ts-challenge' }],
+		socialLinks: [{ icon: 'github', link: 'https://github.com/encode-studio-fe-web/ts-challenge' }],
 
 		footer: {
 			copyright:
-				'Copyright © 2023-present <a href="https://github.com/encode-studio-fe/ts-challenge">印客学院</a>, All Rights Reserved',
+				'Copyright © 2023-present <a href="https://github.com/encode-studio-fe-web/ts-challenge">印客学院</a>, All Rights Reserved',
 		},
 	},
 });
