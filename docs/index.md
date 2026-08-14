@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  text: "Typescript实战项目"
+  text: "Typescript 实战的项目"
   tagline: 印客学院 Typescript 类型体操
   actions:
     - theme: brand
