@@ -1,6 +1,7 @@
 {
   "name": "ts-challenge",
   "version": "1.0.0",
+  "packageManager": "pnpm@8.15.9",
   "private": "true",
   "description": "印客学院 Typescript 类型体操",
   "scripts": {
